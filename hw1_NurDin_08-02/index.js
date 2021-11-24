@@ -3,7 +3,7 @@
 let userName = prompt('Введите ваше имя и фамилию.')
 console.log(userName)
 
-alert('Вас приветсвует моя домашка!')
+alert(`${userName} Вас приветсвует моя домашка!`)
 
 // задание второе
 
